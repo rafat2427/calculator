@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="sum">Summation</string>
+    <string name="sub">Subtract</string>
+    <string name="mul">Multiply</string>
+    <string name="div">Divide</string>
+    <string name="sci">Scientific</string>
+    <string name="res">Result</string>
+    <string name="cos">Cosine</string>
+    <string name="tan">Tangent</string>
+    <string name="cot">Cotangent</string>
+    <string name="pow"> x\u207F </string>
+    <string name="newpower"> \u207F </string>
+    <string name="sin">Sine</string>
+    <string name="standard">Standard</string>
+</resources>
